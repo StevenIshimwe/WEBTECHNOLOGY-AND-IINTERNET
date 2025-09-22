@@ -8,11 +8,11 @@
 
 *2. Subtraction*
 
-https://github.com/StevenIshimwe/WEBTECHNOLOGY-AND-IINTERNET/blob/main/3.jpeg?raw=true
+![Image](https://github.com/user-attachments/assets/cb7a977b-1613-4f1c-8ded-00cc800b093c)
 
 *3. Multiplication*
 
-https://github.com/StevenIshimwe/WEBTECHNOLOGY-AND-IINTERNET/blob/main/2.jpeg?raw=true
+![Image](https://github.com/user-attachments/assets/d7257f77-3bbf-4aac-a1dc-7564b10804f3)
 
 *4. Division*
 

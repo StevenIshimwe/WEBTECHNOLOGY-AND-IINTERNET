@@ -4,7 +4,7 @@
 
 *1. Addition*
 
-https://github.com/StevenIshimwe/WEBTECHNOLOGY-AND-IINTERNET/blob/main/4.jpeg?raw=true
+![Image](https://github.com/user-attachments/assets/ece0d094-ed76-4099-ac79-80e5c3665aff)
 
 *2. Subtraction*
 

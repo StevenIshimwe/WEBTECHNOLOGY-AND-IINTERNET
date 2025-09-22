@@ -3,6 +3,7 @@
 https://github.com/StevenIshimwe/WEBTECHNOLOGY-AND-IINTERNET/blob/main/5.jpeg?raw=true
 
 *1. Addition*
+https://github.com/StevenIshimwe/WEBTECHNOLOGY-AND-IINTERNET/blob/main/4.jpeg?raw=true
 
 *2. Subtraction*
 

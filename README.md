@@ -4,7 +4,7 @@
 
 *1. Addition*
 
-
+![Image](https://github.com/user-attachments/assets/1558d2ea-916e-4956-aec9-43db2514591b)
 
 *2. Subtraction*
 

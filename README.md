@@ -9,3 +9,4 @@ https://github.com/StevenIshimwe/WEBTECHNOLOGY-AND-IINTERNET/blob/main/5.jpeg?ra
 *3. Multiplication*
 
 *4. Division*
+https://github.com/StevenIshimwe/WEBTECHNOLOGY-AND-IINTERNET/blob/main/1.jpeg?raw=true

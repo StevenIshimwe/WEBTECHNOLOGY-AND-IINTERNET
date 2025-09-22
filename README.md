@@ -4,7 +4,7 @@
 
 *1. Addition*
 
-![Image](https://github.com/user-attachments/assets/ece0d094-ed76-4099-ac79-80e5c3665aff)
+
 
 *2. Subtraction*
 
@@ -16,4 +16,4 @@ https://github.com/StevenIshimwe/WEBTECHNOLOGY-AND-IINTERNET/blob/main/2.jpeg?ra
 
 *4. Division*
 
-https://github.com/StevenIshimwe/WEBTECHNOLOGY-AND-IINTERNET/blob/main/1.jpeg?raw=true
+![Image](https://github.com/user-attachments/assets/ece0d094-ed76-4099-ac79-80e5c3665aff)
